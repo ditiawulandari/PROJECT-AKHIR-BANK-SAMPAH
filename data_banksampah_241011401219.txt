@@ -1,0 +1,12 @@
+12
+S001;Ditia Wulandari - 241011401219;Plastik;2.5;5000.0
+S002;Budi Santoso;Kertas;5.0;7500.0
+S003;Siti Aminah;Logam;1.2;6000.0
+S004;Andi Wijaya;Kaca;3.0;3000.0
+S005;Rina Marlina;Kardus;4.5;5400.0
+S006;Doni Setiawan;Kaleng;2.0;6000.0
+S007;Fitri Handayani;Plastik;3.0;6000.0
+S008;Hendra Kusuma;Kertas;6.0;9000.0
+S009;Lestari Dewi;Logam;0.8;4000.0
+S010;Agus Permana;Plastik;1.5;3000.0
+S011;Yuni Astuti;Kardus;2.5;3000.0
